@@ -1,0 +1,29 @@
+# Node
+node_modules/
+
+# Build
+build/
+dist/
+
+# Environment
+.env
+
+# SQLite DB
+*.db
+
+# MacOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode
+.vscode/
+
+# Others
+*.log
+
+# Ignore addresses.db in backend
+backend/addresses.db
