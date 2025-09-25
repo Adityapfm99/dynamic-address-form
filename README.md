@@ -63,7 +63,7 @@ This project demonstrates a dynamic address form for customer onboarding, suppor
 - **Google API Key:** Not included in the repository for security
 
 ## Demo Video
-<video src="./video/demo.mp4" controls width="600"></video>
+[Watch Demo Video on Google Drive](https://drive.google.com/file/d/1ZyUnBcQXgZ5mOtxCBiQ07NEjjkZWVu-p/view?usp=sharing)
 
 ## License
 MIT
