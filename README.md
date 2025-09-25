@@ -61,7 +61,9 @@ This project demonstrates a dynamic address form for customer onboarding, suppor
 
 ## Security & Demo Notes
 - **Google API Key:** Not included in the repository for security
-- **Demo Video:** (Optional) Attach a video or GIF in your submission to show Google Places integration if reviewers cannot test with their own API key.
+
+## Demo Video
+<video src="./video/demo.mov" controls width="600"></video>
 
 ## License
 MIT
