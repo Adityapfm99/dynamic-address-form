@@ -1,4 +1,18 @@
-# Dynamic Address Form (Fullstack TypeScript Demo)
+
+## Case Study A: Migration Plan
+
+The migration plan for moving AcmeCorp’s monolithic React SPA to a microfrontend architecture (including architecture proposal, migration strategy, and reflection) is available here:
+
+- [View Migration Plan (Google Docs)](https://docs.google.com/document/d/1o_5Bc9Nmvj7YzfINw1YQsq6QNLkrglnYbxwcOF28GV8/edit?usp=sharing)
+
+**Summary:**
+- Uses Module Federation and the Strangler Fig pattern for safe, incremental migration.
+- Feature toggles and robust monitoring for rollout safety.
+- Emphasizes team ownership, automation, and clear communication.
+
+
+## Case Study B: Dynamic Address Form (Fullstack TypeScript Demo)
+
 
 ## Overview
 This project demonstrates a dynamic address form for customer onboarding, supporting country-specific layouts and validation. It uses React for the frontend and Express + SQLite for the backend. Google Places Autocomplete is integrated for quick address entry.
